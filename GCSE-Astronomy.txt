@@ -1,5 +1,3 @@
-GCSE Astronomy
-
 * Section 01: Planet Earth
 * Topics
     * The Internal Structures Of The Earth
