@@ -21,6 +21,8 @@
     * Create a dropdown list of topics read from this file based upon the chosen section name 
     * The student picks their topic from the dropdown list
     * The student enters the number of questions they would like to be asked
+        * The default number of questions are 25
+        * The maximum number of questions are 50
 
 * RULES
     * The examination board level options are KS3 or GCSE
