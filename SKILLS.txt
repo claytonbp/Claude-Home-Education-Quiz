@@ -11,6 +11,13 @@
     * Claude asks the input in chat, then gives a numbered list
     * The student enters their name
     * The student picks their examination board level
+    * The student picks their skill level
+        * For KS3, select either
+            * Standard Questions
+            * Challenge level, similar to UKMT junior/intermediate
+        * For GCSE, select either
+            * Up to Grade 7
+            * Grade 9 Olympiad level
     * The student picks their subject from a dropdown list
     * Locate the relevant context file from the information provided by the student:
         * The correct filename will contain the examination board level and subject
